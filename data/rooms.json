@@ -1,0 +1,322 @@
+[
+  {
+    "id": "01",
+    "name": "Raum 01",
+    "amount": 2500,
+    "category": "Wohnraum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4422.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "02",
+    "name": "Raum 02",
+    "amount": 2700,
+    "category": "Wohnraum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4457.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "03",
+    "name": "Raum 03",
+    "amount": 3000,
+    "category": "Musikalisch genutzter Raum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4459.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "04",
+    "name": "Raum 04",
+    "amount": 2500,
+    "category": "Wohnraum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4464.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "05",
+    "name": "Raum 05",
+    "amount": 2700,
+    "category": "Wohnraum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4465.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "06",
+    "name": "Raum 06",
+    "amount": 3000,
+    "category": "Musikalisch genutzter Raum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4466.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "07",
+    "name": "Raum 07",
+    "amount": 2500,
+    "category": "Wohnraum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4467.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "08",
+    "name": "Raum 08",
+    "amount": 2700,
+    "category": "Wohnraum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4471.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "09",
+    "name": "Raum 09",
+    "amount": 3000,
+    "category": "Musikalisch genutzter Raum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4474.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "10",
+    "name": "Raum 10",
+    "amount": 2500,
+    "category": "Wohnraum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4476.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "11",
+    "name": "Raum 11",
+    "amount": 2700,
+    "category": "Wohnraum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4420.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "12",
+    "name": "Raum 12",
+    "amount": 3000,
+    "category": "Musikalisch genutzter Raum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4426.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "13",
+    "name": "Raum 13",
+    "amount": 2500,
+    "category": "Wohnraum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4438.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "14",
+    "name": "Raum 14",
+    "amount": 2700,
+    "category": "Wohnraum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4439.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "15",
+    "name": "Raum 15",
+    "amount": 3000,
+    "category": "Musikalisch genutzter Raum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4443.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  },
+  {
+    "id": "16",
+    "name": "Raum 16",
+    "amount": 2500,
+    "category": "Wohnraum",
+    "status": "frei",
+    "phase": "ausgang",
+    "description": "Ein Raum zum Wohnen, Lernen und Zur-Ruhe-Kommen. Seine genaue Nutzung und die geplanten Arbeiten werden mit der Akademie abgestimmt.",
+    "images": [
+      {
+        "src": "/images/IMG_4489.webp",
+        "label": "Jetziger Zustand",
+        "phase": "ausgang",
+        "alt": "Dokumentationsfoto eines Raums im Wohnheim in Odesa"
+      }
+    ],
+    "updates": [],
+    "patron": null,
+    "verified": false
+  }
+]
