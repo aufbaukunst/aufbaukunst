@@ -57,3 +57,14 @@ body{background-color:#06243d;background-image:url('/images/draft-paper-light.sv
 .academy-label h2:before{content:'';position:absolute;width:27px;height:27px;left:-13px;top:-9px;border:1px solid #c4d9dd50;border-radius:50%;transform:rotate(-8deg)}
 .academy-label h2:after{width:105%;margin-left:-2.5%;height:6px;transform:rotate(-.45deg);border-top-color:#d4e2e359;border-bottom-color:#d4e2e329}
 @media(max-width:760px){.academy-label h2{font-weight:400;color:#dce7e775;-webkit-text-stroke:.55px #e0e9e9;letter-spacing:.018em}.academy-label{padding-top:18px}.academy-label:before{inset:7px 4% 22px}}
+
+/* Loose pencil frames connect documentary photographs with the blueprint. */
+.room-card .image-wrap{overflow:visible}
+.room-card img{clip-path:inset(0)}
+.room-card:hover img{transform:none}
+.room-card:nth-child(odd) .image-wrap:before,.project-image:before{content:'';position:absolute;inset:-6px -5px -5px -7px;border:1px solid #d8e5e269;transform:rotate(-.7deg);pointer-events:none;z-index:1}
+.room-card:nth-child(odd) .image-wrap:after,.project-image:after{content:'';position:absolute;inset:-12px -11px -10px -10px;pointer-events:none;z-index:1;background:linear-gradient(#d8e5e28a,#d8e5e28a) left 7px top 0/1px 25px no-repeat,linear-gradient(#d8e5e28a,#d8e5e28a) left 0 top 8px/27px 1px no-repeat,linear-gradient(#d8e5e265,#d8e5e265) right 7px bottom 0/1px 25px no-repeat,linear-gradient(#d8e5e265,#d8e5e265) right 0 bottom 8px/27px 1px no-repeat;transform:rotate(.45deg)}
+.project-image:before{inset:-7px -6px -6px -8px;transform:rotate(.5deg)}
+.project-image:after{transform:rotate(-.4deg)}
+.gallery:after{content:'';position:absolute;inset:12px;border:1px solid #e4eade65;transform:rotate(-.45deg);pointer-events:none}
+@media(max-width:760px){.room-card:nth-child(odd) .image-wrap:before{inset:-4px}.room-card:nth-child(odd) .image-wrap:after{inset:-8px}.gallery:after{inset:9px}}
