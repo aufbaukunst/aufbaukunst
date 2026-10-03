@@ -94,3 +94,6 @@ body{background-color:#06243d;background-image:url('/images/draft-paper-light.sv
 
 .window-arrow{display:block;width:100px;height:38px;fill:none;stroke:#d4e2df;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;opacity:.7;margin:10px 0 0 auto;transform:rotate(-8deg);pointer-events:none}
 @media(max-width:760px){.mobile-house-invitation .window-instruction{display:flex;flex-direction:column-reverse;align-items:center;gap:12px}.mobile-house-invitation .window-arrow{width:66px;height:28px;margin:8px auto 12px;transform:rotate(-90deg)}}
+
+.window-arrow-mobile{display:none}
+@media(max-width:760px){.mobile-house-invitation{position:relative;padding-left:12%;padding-right:22%}.mobile-house-invitation .window-instruction{display:block;position:static}.mobile-house-invitation .window-arrow{display:none}.mobile-house-invitation .window-arrow-mobile{display:block;position:absolute;right:0;bottom:24px;width:clamp(84px,24vw,125px);height:235px;fill:none;stroke:#d4e2df;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;opacity:.7;pointer-events:none}.mobile-house-invitation .sponsorship-invitation{padding-left:0;padding-right:0}}
