@@ -75,3 +75,9 @@ body{background-color:#06243d;background-image:url('/images/draft-paper-light.sv
 .academy-sign-button:hover .sign-info,.academy-sign-button:focus-visible .sign-info{background:#245571;box-shadow:0 0 0 3px #06243d88,0 0 18px #e8d5a665}
 .blueprint+.legend{margin-top:18px}
 @media(max-width:760px){.sign-info{width:30px;height:30px;font-size:20px;line-height:28px;right:-2px;top:-2px}}
+
+/* Sponsorship and completed construction have distinct status colours. */
+.dot.funded{background:#d7864f}.window.funded{background:linear-gradient(90deg,#b75f35dd,#dc945cdd);border-color:#f0b382;box-shadow:0 0 18px #d7864f50}.window.funded span{background:#f2b583}
+.dot.completed{background:#70c8ae}.window.completed{background:linear-gradient(90deg,#439b87dd,#85d4badd);border-color:#b4ecd7;box-shadow:0 0 18px #70c8ae55}.window.completed span{background:#a6e2cb}
+.academy-sign-button{left:61.1%;top:82.2%}.sign-info{right:8px;top:8px}
+@media(max-width:760px){.sign-info{right:9px;top:9px}}
