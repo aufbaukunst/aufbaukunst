@@ -87,3 +87,7 @@ body{background-color:#06243d;background-image:url('/images/draft-paper-light.sv
 
 /* Anchor both columns beneath the header as the drawing gains content. */
 @media(min-width:761px){.hero{align-items:start;padding-top:58px}.hero-copy{align-self:start;padding-top:24px}.hero-art{align-self:start;margin-top:0}}
+
+.desktop-house-invitation{display:none}
+@media(min-width:761px){.hero-room-action,.mobile-house-invitation{display:none}.desktop-house-invitation{display:block;text-align:left;padding:0;margin-top:clamp(38px,5vw,78px);max-width:470px}.desktop-house-invitation .sponsorship-invitation{text-align:left;padding:12px 0}.desktop-house-invitation .sponsorship-invitation:after{margin-left:0;width:82%}.desktop-house-invitation .window-instruction{margin-top:14px;max-width:370px;color:#c5d5df}.blueprint+.legend{margin-top:22px}}
+@media(max-width:760px){.hero-room-action{display:inline-flex;min-height:52px}.mobile-house-invitation{display:block}}
