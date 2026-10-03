@@ -68,3 +68,10 @@ body{background-color:#06243d;background-image:url('/images/draft-paper-light.sv
 .project-image:after{transform:rotate(-.4deg)}
 .gallery:after{content:'';position:absolute;inset:12px;border:1px solid #e4eade65;transform:rotate(-.45deg);pointer-events:none}
 @media(max-width:760px){.room-card:nth-child(odd) .image-wrap:before{inset:-4px}.room-card:nth-child(odd) .image-wrap:after{inset:-8px}.gallery:after{inset:9px}}
+
+/* A visible information marker replaces the caption beneath the drawing. */
+.academy-sign-button{width:48px;height:48px}
+.sign-info{right:-3px;top:-3px;width:32px;height:32px;border:1px solid #efe7cb;background:#123f5b;color:#fff3d4;font:500 21px/30px Georgia,serif;box-shadow:0 0 0 3px #06243d88;transition:background .2s,box-shadow .2s}
+.academy-sign-button:hover .sign-info,.academy-sign-button:focus-visible .sign-info{background:#245571;box-shadow:0 0 0 3px #06243d88,0 0 18px #e8d5a665}
+.blueprint+.legend{margin-top:18px}
+@media(max-width:760px){.sign-info{width:30px;height:30px;font-size:20px;line-height:28px;right:-2px;top:-2px}}
