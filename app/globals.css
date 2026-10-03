@@ -91,3 +91,6 @@ body{background-color:#06243d;background-image:url('/images/draft-paper-light.sv
 .desktop-house-invitation{display:none}
 @media(min-width:761px){.hero-room-action,.mobile-house-invitation{display:none}.desktop-house-invitation{display:block;text-align:left;padding:0;margin-top:clamp(38px,5vw,78px);max-width:470px}.desktop-house-invitation .sponsorship-invitation{text-align:left;padding:12px 0}.desktop-house-invitation .sponsorship-invitation:after{margin-left:0;width:82%}.desktop-house-invitation .window-instruction{margin-top:14px;max-width:370px;color:#c5d5df}.blueprint+.legend{margin-top:22px}}
 @media(max-width:760px){.hero-room-action{display:inline-flex;min-height:52px}.mobile-house-invitation{display:block}}
+
+.window-arrow{display:block;width:100px;height:38px;fill:none;stroke:#d4e2df;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;opacity:.7;margin:10px 0 0 auto;transform:rotate(-8deg);pointer-events:none}
+@media(max-width:760px){.mobile-house-invitation .window-instruction{display:flex;flex-direction:column-reverse;align-items:center;gap:12px}.mobile-house-invitation .window-arrow{width:66px;height:28px;margin:8px auto 12px;transform:rotate(-90deg)}}
